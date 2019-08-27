@@ -1,0 +1,73 @@
+.header{background-color:white;position:absolute;width:1010px;height:160px;left:303px;top:80px;}
+body{background-color:#F0F5F5;}
+.sol{background-color:#F0F5F5;position:absolute;width:300px;height:2000px;left:0px;top:150px;}
+.sağ{background-color:#F0F5F5;position:absolute;width:300px;height:2000px;left:1320px;right:0px;top:150px;}
+.menu ul{position:relative;top:80px;list-style-type:none;margin:0px;padding:15px;z-index:999;}
+.menu li{position:relative;top:-80px;float:left;width:100px;}
+.menu ul li ul{display:none;font-size:0.6em;position:absolute;top:100px;left:-12px;}
+.menu ul li:hover ul{display:block;float:left;}
+.menu li a{text-decoration:none;background-color:white;display:block;color: black;font-weight: bold;padding: 5px;font-size: 12x;font-family: sans-serif;text-align: left;}
+.menu ul li ul li a:hover{color:skyblue;font-size: 14px;text-align:left;margin-left:-20px;}
+.slider #pictures{list-style:none;overflow:hidden;width:1010px;height:200px;top:10px;left:-25px;right:500px;position:relative;}
+.slider #buttons{position:absolute;bottom:305px;right:220px;}
+.slider #buttons li{float:left;margin-right:10px;list-style:none;}
+.slider #buttons li a{text-decoration:none;background:white;padding:3px 5px;border-radius:100px;color:red;}
+.slider #buttons li a:hover{background:red;color:white;}
+.slider #buttons li.aktif a{background:red;color:white;}
+.slider2 #pictures2{list-style:none;overflow:hidden;width:1010px;height:486px;top:10px;left:-25px;right:500px;position:relative;}
+.slider2 #buttons2{position:absolute;bottom:-60px;right:200px;}
+.slider2 #buttons2 li{float:left;margin-right:10px;list-style:none;}
+.slider2 #buttons2 li a{text-decoration:none;background:white;border:solid 1px;padding:5px 5px;color:black;}
+.slider2 #buttons2 li a:hover{background:red;color:white;}
+.slider2 #buttons2 li.aktif2 a{background:red;color:white;}
+h1{position:absolute;background-color:black;color:white;bottom:-15px;padding-top:20px;padding-left:10px;width:100%;height:80px;font-size:2.8em;opacity:0.7;}
+h2{position:absolute;background-color:black;color:white;bottom:-20px;padding-top:20px;padding-left:10px;width:100%;height:50px;font-size:1.5em;opacity:0.7;}
+h3{position:absolute;background-color:black;color:white;bottom:-20px;padding-top:20px;padding-left:10px;width:590px;height:50px;font-size:1.5em;opacity:0.7;}
+.haber1{width:250px;height:150px;background-color:white;color:black;}
+.haber2{width:250px;height:170px;background-color:white;color:black;}
+.haber3{position:absolute;top:1013px;left:550px;width:250px;height:341px;background-color:white;color:black;}
+.haber4{position:absolute;top:1013px;left:815px;width:250px;height:170px;background-color:white;color:black;}
+.haber5{position:absolute;top:1183px;left:815px;width:250px;height:170px;background-color:white;color:black;}
+.haber6{position:absolute;top:1930px;left:300px;width:250px;height:200px;background-color:white;color:black;}
+.haber7{position:absolute;top:1930px;left:570px;width:250px;height:200px;background-color:white;color:black;}
+.haber8{position:absolute;top:1930px;left:840px;width:250px;height:200px;background-color:white;color:black;}
+.neyapiyoruz{position:absolute;top:1008px;left:1080px;width:235px;height:170px;}
+.yayin{position:absolute;top:1183px;left:1080px;width:235px;height:170px;}
+.slider3 #pictures3{list-style:none;overflow:hidden;width:790px;height:350px;top:150px;left:-25px;right:500px;position:relative;}
+.slider3 #buttons3{position:relative;top:150px;right:25px;}
+.slider3 #buttons3 li{float:left;margin-right:10px;list-style:none;}
+.slider3 #buttons3 li a{text-decoration:none;background:white;border:solid 1px;padding:5px 5px;color:black;}
+.slider3 #buttons3 li a:hover{background:red;color:white;}
+.slider3 #buttons3 li.aktif3 a{background:red;color:white;}
+.slider4 #pictures4{list-style:none;overflow:hidden;width:790px;height:350px;top:400px;left:-25px;right:500px;position:relative;}
+.slider4 #buttons4{position:relative;top:400px;right:25px;}
+.slider4 #buttons4 li{float:left;margin-right:10px;list-style:none;}
+.slider4 #buttons4 li a{text-decoration:none;background:white;border:solid 1px;padding:5px 5px;color:black;}
+.slider4 #buttons4 li a:hover{background:red;color:white;}
+.slider4 #buttons4 li.aktif4 a{background:red;color:white;}
+.haber9{position:absolute;top:2550px;left:300px;width:390px;height:100px;background-color:white;color:black;}
+.haber10{position:absolute;top:2550px;left:700px;width:390px;height:100px;background-color:white;color:black;}
+.haber11{position:absolute;top:2655px;left:300px;width:390px;height:100px;background-color:white;color:black;}
+.haber12{position:absolute;top:2655px;left:700px;width:390px;height:100px;background-color:white;color:black;}
+.sonhaber{position:relative;top:640px;left:15px;width:610px;height:360px;background-color:#E7A600;}
+.slider5 #pictures5{position:absolute;list-style:none;overflow:hidden;width:790px;height:300px;top:0px;left:-40px;margin:5px;}
+.slider5 #buttons5{position:absolute;top:315px;left:0px;top:300px;padding:5px 5px;}
+.slider5 #buttons5 li{float:left;margin-right:10px;list-style:none;}
+.slider5 #buttons5 li a{text-decoration:none;background:white;border:solid 1px;padding:5px 5px;color:black;}
+.slider5 #buttons5 li a:hover{background:red;color:white;}
+.slider5 #buttons5 li.aktif5 a{background:red;color:white;}
+.haber13{position:relative;top:280px;left:625px;width:390px;height:120px;background-color:#E7A600;}
+.haber13 a:hover{color:red;}
+.namaz{position:relative;bottom:907px;left:810px;width:300px;height:200px;}
+.vefat{position:relative;bottom:887px;left:810px;width:300px;height:200px;}
+.bag1{position:relative;bottom:880px;left:810px;width:300px;height:50px;}
+.bag2{position:relative;bottom:875px;left:810px;width:300px;height:50px;}
+.bag3{position:relative;bottom:870px;left:810px;width:300px;height:50px;}
+.bag4{position:relative;bottom:865px;left:810px;width:300px;height:50px;}
+.bag5{position:relative;bottom:860px;left:810px;width:300px;height:50px;}
+.bag6{position:relative;bottom:855px;left:810px;width:300px;height:50px;}
+.bag7{position:relative;bottom:850px;left:810px;width:300px;height:50px;}
+.footer1{position:absolute;top:3150px;left:300px;background-color:#BFE6F7;width:250px;height:250px;}
+.footer2{position:absolute;top:3150px;left:535px;width:770px;height:250px;background-color:#BFE6F7;font-size:0.9em;}
+li{list-style:none;}
+a{text-decoration:none;}
